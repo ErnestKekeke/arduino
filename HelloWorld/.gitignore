@@ -1,0 +1,20 @@
+# Ignore real config with secrets
+Config.h
+
+# Arduino build folders
+/build/
+*.elf
+*.hex
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Arduino IDE temporary files
+*.tmp
+*.bak
+*.swp
+*.log
+*.prefs
+*.out
